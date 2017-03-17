@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "DrawSketchPod"
-  s.version      = "1.0.3"
+  s.version      = "1.0.4"
   s.summary      = "This Pod is used for Drawing Sketch with Photos."
 
   # This description is used to generate tags and improve search results.
@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = "This Pod is used for Drawing Sketch with Photos."
 
-  s.homepage     = "https://github.com/DrawSketchPod"
+  s.homepage     = "https://github.com/DrawSketch"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -79,7 +79,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/RPiyush/DrawSketch/DrawSketchPod.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/RPiyush/DrawSketch.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #

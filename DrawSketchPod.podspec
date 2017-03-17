@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "DrawSketchPod"
-  s.version      = "1.0.5"
+  s.version      = "1.0.6"
   s.summary      = "This Pod is used for Drawing Sketch with Photos."
 
   # This description is used to generate tags and improve search results.
@@ -24,9 +24,9 @@ Pod::Spec.new do |s|
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  s.description  = "This Pod is used for Drawing Sketch with Photos."
+  s.description  = "This Pod is used for Drawing Sketch with Photos. This is very usefuk for digital signature."
 
-  s.homepage     = "https://github.com/DrawSketch"
+  s.homepage     = "https://github.com/RPiyush/DrawSketch"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 

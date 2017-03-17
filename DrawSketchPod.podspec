@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "DrawSketchPod"
-  s.version      = "1.0.2"
+  s.version      = "1.0.3"
   s.summary      = "This Pod is used for Drawing Sketch with Photos."
 
   # This description is used to generate tags and improve search results.
@@ -79,7 +79,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/RPiyush/DrawSketchPod.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/RPiyush/DrawSketch/DrawSketchPod.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #

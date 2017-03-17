@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "DrawSketchPod"
-  s.version      = "1.0.6"
+  s.version      = "1.0.7"
   s.summary      = "This Pod is used for Drawing Sketch with Photos."
 
   # This description is used to generate tags and improve search results.
@@ -90,7 +90,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "DrawSketchSwift", "DrawSketchSwift/**/*.{swift,png}"
+  s.source_files  = "DrawSketchPOC", "DrawSketchPOC/**/*.{swift,png}"
 
   # s.public_header_files = "Classes/**/*.h"
 
